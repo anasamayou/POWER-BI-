@@ -1,16 +1,11 @@
-############ AMAYOU ANAS ######################### AMAYOU ANAS #############
+############✅ AMAYOU ANAS : BE DEVLOPER ✅#########################  
 
 
-# POWER-BI-
-THE SOLUTION : 
-  Adventure Works Cycles*, a global manufacturing company,want to design and deliver an end-to-end business intelligence solution  
+# WHAT IS  POWER-BI ? 
+Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.
 
-IN THIS REPORT I USE POWER BI TO : 
+#📩email :  amayouanas@gmail.com
 
-• Connect and transform the raw data
-• Build a relational data model
-• Create new calculated columns and DAX measures
-• Design an interactive report to analyze and visualize the data
+#❌ All this POWER BI Files Created by : ✅AMAYOU ANAS 
 
-
-############ AMAYOU ANAS ######################### AMAYOU ANAS #############
+# © All rights reserved -2021-
