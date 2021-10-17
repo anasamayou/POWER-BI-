@@ -1,4 +1,4 @@
-############✅ AMAYOU ANAS : BE DEVLOPER ✅#########################  
+############✅ AMAYOU ANAS : BI DEVLOPER & DATA ANALYST  ✅#########################  
 
 
 # WHAT IS  POWER-BI ? 
